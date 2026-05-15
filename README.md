@@ -1,3 +1,25 @@
+# Media Transcriber
+
+<!-- portfolio-curation -->
+## Portfolio Overview
+Utility application for downloading media, splitting audio, and producing transcriptions for downstream review.
+
+## What This Demonstrates
+- Media processing
+- transcription workflows
+- document generation
+
+## Stack
+Python
+
+## Portfolio Status
+This repository is part of Keith Williams' curated public portfolio. The README has been updated to explain the project purpose, technical focus, and why the work is worth reviewing.
+<!-- /portfolio-curation -->
+
+---
+
+## Original Notes
+
 # Transcription Application - Comprehensive Guide
 
 This repository contains a transcription application designed to download video or audio content, split it into manageable chunks, transcribe the audio using advanced NLP models, and merge the results into a unified transcript. The application is built with Python and uses libraries such as `yt-dlp`, `ffmpeg`, and external APIs for transcription. It also demonstrates advanced development concepts such as threading, asynchronous processing, caching, and rate limiting.
